@@ -1,0 +1,84 @@
+http://www.angularjs.wang/（AngularJs_中国最大的AngularJs/AngularJS 2.0中文视频教程分享网）
+
+http://v.itcast.cn/map/50.html（前端与移动开发学习路线图 - 博学谷视频库）
+
+http://tts8.tmooc.cn/studentCenter/toMyttsPage?isCenter=yes（TTSjava学习）
+账号：1591802846@qq.com密码：123456
+
+http://es6.ruanyifeng.com/#docs/intro（ECMAScript 6简介 - ECMAScript 6入门）
+
+http://www.tslang.cn/docs/tutorial.html（TypeScript中文网 ）
+
+http://www.ngnice.com/（首页 - AngularJS Nice Things）
+
+http://www.angularjs.cn/A002（AngularJS快速开始 | AngularJS中文社区）
+
+http://www.h5edu.cn/htm/step/h5edu_44.html（JavaScript强化教程）
+
+http://www.gbtags.com/gb/share/4368.htm（ 极客标签 | 在线编程知识分享学习平台）
+
+http://www.shejidaren.com/tag/dribbble（dribbble | 设计达人）
+
+http://www.whycss.com/（前端网址导航 - WHYCSS）
+
+http://www.codewars.com/?language=javascript（Train with Programming Challenges| Codewars）
+
+https://bonsaiden.github.io/JavaScript-Garden/zh/（JavaScript 秘密花园）
+
+https://github.com/xufei/blog/issues（Issues · xufei/blog）
+
+https://www.smashingmagazine.com/tag/javascript/（JavaScript on Smashing Magazine）
+
+http://fex.baidu.com/articles/（FEX - FEX）
+
+https://cnodejs.org/（CNode：Node.js专业中文社区）
+
+http://www.html-js.com/（前端乱炖, 最专业的前端技术内容社区）
+
+http://www.infoq.com/cn/（InfoQ - 促进软件开发领域知识与创新的传播）
+
+http://div.io/pro/index（所有专栏文章 - Div.IO）
+
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript（JavaScript | MDN）
+
+http://perfectionkills.com/（Perfection Kills）
+
+https://davidwalsh.name/（David Walsh Blog - JavaScript Consultant）
+
+http://ejohn.org/（John Resig - JavaScript Programmer）
+
+https://www.nczonline.net/（NCZOnline - The official website of Nicholas C. Zakas）
+
+http://jsbin.com/gezumobeti/6/edit?html,css,js,output（JS Bin - 在线编辑）
+
+https://segmentfault.com/q/1010000002757327（SegmentFault-前端后端）
+
+http://www.w3cplus.com/sassguide/（sass入门 - sass教程）
+
+http://www.uiplayground.in/css3-icons/（CSS 3 Icons | CSS 3 Icons Generator | UIPlayGround）
+
+http://www.html5tricks.com/jquery-auto-image-slider.html（HTML5资源教程）
+
+http://www.css88.com/（WEB前端开发）
+
+https://www.qianduan.net/（前端观察）
+
+http://www.daqianduan.com/（大前端_关注前端开发和wordpress主题的博客）
+
+http://www.w3cplus.com/（w3cplus_引领web前沿，打造前端精品教程）
+
+http://browsershots.org/（Check Browser Compatibility浏览器兼容性测试）
+
+https://logopond.com/（Logopond - Identity Inspiration）
+
+https://stocklogos.com/（StockLogos.com | Creative & Affordable logos）
+
+https://wrapbootstrap.com/（WrapBootstrap - Bootstrap Themes & Templates）
+
+http://edu.51cto.com/course/course_id-2905.html?edu_recommend_adid=85（跟老谭学XML）
+
+http://www.cocoachina.com/webapp/20150721/12692.html（一看就懂的ReactJs入门教程（精华版） - CocoaChina）
+
+http://v.dxsbb.com/jisuanji/572/（JSP视频教程全集_大学生自学网）
+
+http://www.520ued.com（前端开发）
