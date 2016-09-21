@@ -1,84 +1,81 @@
-http://www.angularjs.wang/£¨AngularJs_ÖĞ¹ú×î´óµÄAngularJs/AngularJS 2.0ÖĞÎÄÊÓÆµ½Ì³Ì·ÖÏíÍø£©
+http://www.angularjs.wang/ï¼ˆAngularJs_ä¸­å›½æœ€å¤§çš„AngularJs/AngularJS 2.0ä¸­æ–‡è§†é¢‘æ•™ç¨‹åˆ†äº«ç½‘ï¼‰
 
-http://v.itcast.cn/map/50.html£¨Ç°¶ËÓëÒÆ¶¯¿ª·¢Ñ§Ï°Â·ÏßÍ¼ - ²©Ñ§¹ÈÊÓÆµ¿â£©
+http://v.itcast.cn/map/50.htmlï¼ˆå‰ç«¯ä¸ç§»åŠ¨å¼€å‘å­¦ä¹ è·¯çº¿å›¾ - åšå­¦è°·è§†é¢‘åº“ï¼‰
 
-http://tts8.tmooc.cn/studentCenter/toMyttsPage?isCenter=yes£¨TTSjavaÑ§Ï°£©
-ÕËºÅ£º1591802846@qq.comÃÜÂë£º123456
+http://es6.ruanyifeng.com/#docs/introï¼ˆECMAScript 6ç®€ä»‹ - ECMAScript 6å…¥é—¨ï¼‰
 
-http://es6.ruanyifeng.com/#docs/intro£¨ECMAScript 6¼ò½é - ECMAScript 6ÈëÃÅ£©
+http://www.tslang.cn/docs/tutorial.htmlï¼ˆTypeScriptä¸­æ–‡ç½‘ ï¼‰
 
-http://www.tslang.cn/docs/tutorial.html£¨TypeScriptÖĞÎÄÍø £©
+http://www.ngnice.com/ï¼ˆé¦–é¡µ - AngularJS Nice Thingsï¼‰
 
-http://www.ngnice.com/£¨Ê×Ò³ - AngularJS Nice Things£©
+http://www.angularjs.cn/A002ï¼ˆAngularJSå¿«é€Ÿå¼€å§‹ | AngularJSä¸­æ–‡ç¤¾åŒºï¼‰
 
-http://www.angularjs.cn/A002£¨AngularJS¿ìËÙ¿ªÊ¼ | AngularJSÖĞÎÄÉçÇø£©
+http://www.h5edu.cn/htm/step/h5edu_44.htmlï¼ˆJavaScriptå¼ºåŒ–æ•™ç¨‹ï¼‰
 
-http://www.h5edu.cn/htm/step/h5edu_44.html£¨JavaScriptÇ¿»¯½Ì³Ì£©
+http://www.gbtags.com/gb/share/4368.htmï¼ˆ æå®¢æ ‡ç­¾ | åœ¨çº¿ç¼–ç¨‹çŸ¥è¯†åˆ†äº«å­¦ä¹ å¹³å°ï¼‰
 
-http://www.gbtags.com/gb/share/4368.htm£¨ ¼«¿Í±êÇ© | ÔÚÏß±à³ÌÖªÊ¶·ÖÏíÑ§Ï°Æ½Ì¨£©
+http://www.shejidaren.com/tag/dribbbleï¼ˆdribbble | è®¾è®¡è¾¾äººï¼‰
 
-http://www.shejidaren.com/tag/dribbble£¨dribbble | Éè¼Æ´ïÈË£©
+http://www.whycss.com/ï¼ˆå‰ç«¯ç½‘å€å¯¼èˆª - WHYCSSï¼‰
 
-http://www.whycss.com/£¨Ç°¶ËÍøÖ·µ¼º½ - WHYCSS£©
+http://www.codewars.com/?language=javascriptï¼ˆTrain with Programming Challenges| Codewarsï¼‰
 
-http://www.codewars.com/?language=javascript£¨Train with Programming Challenges| Codewars£©
+https://bonsaiden.github.io/JavaScript-Garden/zh/ï¼ˆJavaScript ç§˜å¯†èŠ±å›­ï¼‰
 
-https://bonsaiden.github.io/JavaScript-Garden/zh/£¨JavaScript ÃØÃÜ»¨Ô°£©
+https://github.com/xufei/blog/issuesï¼ˆIssues Â· xufei/blogï¼‰
 
-https://github.com/xufei/blog/issues£¨Issues ¡¤ xufei/blog£©
+https://www.smashingmagazine.com/tag/javascript/ï¼ˆJavaScript on Smashing Magazineï¼‰
 
-https://www.smashingmagazine.com/tag/javascript/£¨JavaScript on Smashing Magazine£©
+http://fex.baidu.com/articles/ï¼ˆFEX - FEXï¼‰
 
-http://fex.baidu.com/articles/£¨FEX - FEX£©
+https://cnodejs.org/ï¼ˆCNodeï¼šNode.jsä¸“ä¸šä¸­æ–‡ç¤¾åŒºï¼‰
 
-https://cnodejs.org/£¨CNode£ºNode.js×¨ÒµÖĞÎÄÉçÇø£©
+http://www.html-js.com/ï¼ˆå‰ç«¯ä¹±ç‚–, æœ€ä¸“ä¸šçš„å‰ç«¯æŠ€æœ¯å†…å®¹ç¤¾åŒºï¼‰
 
-http://www.html-js.com/£¨Ç°¶ËÂÒìÀ, ×î×¨ÒµµÄÇ°¶Ë¼¼ÊõÄÚÈİÉçÇø£©
+http://www.infoq.com/cn/ï¼ˆInfoQ - ä¿ƒè¿›è½¯ä»¶å¼€å‘é¢†åŸŸçŸ¥è¯†ä¸åˆ›æ–°çš„ä¼ æ’­ï¼‰
 
-http://www.infoq.com/cn/£¨InfoQ - ´Ù½øÈí¼ş¿ª·¢ÁìÓòÖªÊ¶Óë´´ĞÂµÄ´«²¥£©
+http://div.io/pro/indexï¼ˆæ‰€æœ‰ä¸“æ æ–‡ç«  - Div.IOï¼‰
 
-http://div.io/pro/index£¨ËùÓĞ×¨À¸ÎÄÕÂ - Div.IO£©
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScriptï¼ˆJavaScript | MDNï¼‰
 
-https://developer.mozilla.org/zh-CN/docs/Web/JavaScript£¨JavaScript | MDN£©
+http://perfectionkills.com/ï¼ˆPerfection Killsï¼‰
 
-http://perfectionkills.com/£¨Perfection Kills£©
+https://davidwalsh.name/ï¼ˆDavid Walsh Blog - JavaScript Consultantï¼‰
 
-https://davidwalsh.name/£¨David Walsh Blog - JavaScript Consultant£©
+http://ejohn.org/ï¼ˆJohn Resig - JavaScript Programmerï¼‰
 
-http://ejohn.org/£¨John Resig - JavaScript Programmer£©
+https://www.nczonline.net/ï¼ˆNCZOnline - The official website of Nicholas C. Zakasï¼‰
 
-https://www.nczonline.net/£¨NCZOnline - The official website of Nicholas C. Zakas£©
+http://jsbin.com/gezumobeti/6/edit?html,css,js,outputï¼ˆJS Bin - åœ¨çº¿ç¼–è¾‘ï¼‰
 
-http://jsbin.com/gezumobeti/6/edit?html,css,js,output£¨JS Bin - ÔÚÏß±à¼­£©
+https://segmentfault.com/q/1010000002757327ï¼ˆSegmentFault-å‰ç«¯åç«¯ï¼‰
 
-https://segmentfault.com/q/1010000002757327£¨SegmentFault-Ç°¶Ëºó¶Ë£©
+http://www.w3cplus.com/sassguide/ï¼ˆsasså…¥é—¨ - sassæ•™ç¨‹ï¼‰
 
-http://www.w3cplus.com/sassguide/£¨sassÈëÃÅ - sass½Ì³Ì£©
+http://www.uiplayground.in/css3-icons/ï¼ˆCSS 3 Icons | CSS 3 Icons Generator | UIPlayGroundï¼‰
 
-http://www.uiplayground.in/css3-icons/£¨CSS 3 Icons | CSS 3 Icons Generator | UIPlayGround£©
+http://www.html5tricks.com/jquery-auto-image-slider.htmlï¼ˆHTML5èµ„æºæ•™ç¨‹ï¼‰
 
-http://www.html5tricks.com/jquery-auto-image-slider.html£¨HTML5×ÊÔ´½Ì³Ì£©
+http://www.css88.com/ï¼ˆWEBå‰ç«¯å¼€å‘ï¼‰
 
-http://www.css88.com/£¨WEBÇ°¶Ë¿ª·¢£©
+https://www.qianduan.net/ï¼ˆå‰ç«¯è§‚å¯Ÿï¼‰
 
-https://www.qianduan.net/£¨Ç°¶Ë¹Û²ì£©
+http://www.daqianduan.com/ï¼ˆå¤§å‰ç«¯_å…³æ³¨å‰ç«¯å¼€å‘å’Œwordpressä¸»é¢˜çš„åšå®¢ï¼‰
 
-http://www.daqianduan.com/£¨´óÇ°¶Ë_¹Ø×¢Ç°¶Ë¿ª·¢ºÍwordpressÖ÷ÌâµÄ²©¿Í£©
+http://www.w3cplus.com/ï¼ˆw3cplus_å¼•é¢†webå‰æ²¿ï¼Œæ‰“é€ å‰ç«¯ç²¾å“æ•™ç¨‹ï¼‰
 
-http://www.w3cplus.com/£¨w3cplus_ÒıÁìwebÇ°ÑØ£¬´òÔìÇ°¶Ë¾«Æ·½Ì³Ì£©
+http://browsershots.org/ï¼ˆCheck Browser Compatibilityæµè§ˆå™¨å…¼å®¹æ€§æµ‹è¯•ï¼‰
 
-http://browsershots.org/£¨Check Browser Compatibilityä¯ÀÀÆ÷¼æÈİĞÔ²âÊÔ£©
+https://logopond.com/ï¼ˆLogopond - Identity Inspirationï¼‰
 
-https://logopond.com/£¨Logopond - Identity Inspiration£©
+https://stocklogos.com/ï¼ˆStockLogos.com | Creative & Affordable logosï¼‰
 
-https://stocklogos.com/£¨StockLogos.com | Creative & Affordable logos£©
+https://wrapbootstrap.com/ï¼ˆWrapBootstrap - Bootstrap Themes & Templatesï¼‰
 
-https://wrapbootstrap.com/£¨WrapBootstrap - Bootstrap Themes & Templates£©
+http://edu.51cto.com/course/course_id-2905.html?edu_recommend_adid=85ï¼ˆè·Ÿè€è°­å­¦XMLï¼‰
 
-http://edu.51cto.com/course/course_id-2905.html?edu_recommend_adid=85£¨¸úÀÏÌ·Ñ§XML£©
+http://www.cocoachina.com/webapp/20150721/12692.htmlï¼ˆä¸€çœ‹å°±æ‡‚çš„ReactJså…¥é—¨æ•™ç¨‹ï¼ˆç²¾åç‰ˆï¼‰ - CocoaChinaï¼‰
 
-http://www.cocoachina.com/webapp/20150721/12692.html£¨Ò»¿´¾Í¶®µÄReactJsÈëÃÅ½Ì³Ì£¨¾«»ª°æ£© - CocoaChina£©
+http://v.dxsbb.com/jisuanji/572/ï¼ˆJSPè§†é¢‘æ•™ç¨‹å…¨é›†_å¤§å­¦ç”Ÿè‡ªå­¦ç½‘ï¼‰
 
-http://v.dxsbb.com/jisuanji/572/£¨JSPÊÓÆµ½Ì³ÌÈ«¼¯_´óÑ§Éú×ÔÑ§Íø£©
-
-http://www.520ued.com£¨Ç°¶Ë¿ª·¢£©
+http://www.520ued.comï¼ˆå‰ç«¯å¼€å‘ï¼‰
