@@ -1,0 +1,30 @@
+前端自动化工具（Gulp/Grunt等）
+模块化（CommonJS，AMD/CMD模块加载器，各种Bundler，ES2015 Modules等）
+前端 MV* 框架（Backbone，Angular等）
+编译到 CSS 和 JS 的一些语言（Less/Sass/CoffeeScript等）
+前端自动化测试工具（Karma，Mocha，Web Driver等）
+Web绘图（canvas,SVG,CSS3动画效果）
+Zepto
+JQuery Mobile
+React/Relay
+Angular
+
+基于Webpack,Docker,GitlabCI，glup/grunt的代码打包、发布和运维工具。
+KnockoutJS
+MV*模式
+
+原型继承  
+跨域原理
+BFC---块级格式化上下文    IFC--行级格式化上下文
+页面性能优化
+nodejs
+异步编程(回调 promise)
+MVC
+前端自动化
+响应式布局
+移动端的新特性（比如让你封装个tap，解释viewport）
+web安全
+js内存管理
+前端模块化
+web语义化
+最新的前端流行类库
