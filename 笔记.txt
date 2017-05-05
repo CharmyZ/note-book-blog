@@ -1,0 +1,94 @@
+【vertical-align】是设置元素的垂直对齐方式。
+vertical-align:middle;   // 设置元素垂直居中
+
+display:inline-block;    //将对象作为块对象呈递在同一行内。
+display:table-cell;      //此元素会作为表格单元格显示。
+
+<c:if></c:if>            //标签计算表达式，只有当表达式的值为true，则显示其主体内容。
+<c:out>                  //显示表达式的结果
+
+<button onClick="document.location.reload()">刷新</button>      //刷新按钮
+
+.parent(selector) 获得当前匹配元素集合中每个元素的父元素，由选择器筛选（可选）。
+.parents(selector) 获得当前匹配元素集合中每个元素的祖先元素，由选择器筛选（可选）。
+$(this).parents('tr').find('td:eq(0)').text().trim();
+/find('td:eq(0)')/:此处为找到从第一个td开始的数。
+/.text()/判断字符串是否为空。
+/.trim()/去掉字符串两端的空格。
+
+java.lang.String.contains() 方法返回true，当且仅当此字符串包含指定的char值序列。
+
+jQuery Validate 插件为表单提供了强大的验证功能。
+
+JSON 语法规则:
+       数据为 键/值 对（如"firstName":"John"）；数据由逗号分隔；大括号保存对象；方括号保存数组。
+
+响应式CSS：
+
+上面的media语句表示的是：当页面宽度小于或等于600px,调用small.css样式表来渲染你的Web页面。
+<link rel="stylesheet" media="screen and (max-width: 600px)" href="small.css" />
+或者：@media screen and (max-width: 600px) {
+选择器 {
+属性：属性值；
+}
+} 
+当屏幕大于或等于900px时，将采用big.css样式来渲染Web页面。
+<link rel="stylesheet" media="screen and (min-width:900px)" href="big.css" type="text/css" /> 
+当屏幕在600px-900px之间时采用style.css样式来渲染web页面。
+<link rel="stylesheet" media="screen and (min-width:600px) and (max-width:900px)" href="style.css" type="text/css" /> 
+iphone.css样式适用于最大设备宽度为480px，比如说iPhone上的显示，这里的max-device-width所指的是设备的实际分辨率，也就是指可视面积分辨率
+<link rel="stylesheet" media="screen and (max-device-width: 480px)" href="iphone.css" type="text/css" /> 
+
+
+
+清除浮动的3种方法：
+
+  方法一：添加新的元素 、应用 clear：both；（padding不会受影响）
+     <div class="clear"></div>
+     .clear{clear:both; height: 0; line-height: 0; font-size: 0}
+
+  方法二：父级div定义 overflow: auto。
+
+     .（父级class）{
+     overflow: auto; zoom: 1; //zoom: 1;} 是在处理兼容性问题
+
+  方法三： :after 方法：（注意：作用于浮动元素的父亲）
+     .（父级class） {zoom:1;}    /*==for IE6/7 Maxthon2==*/
+     .（父级class） :after {clear:both;content:'.';display:block;width: 0;height: 0;visibility:hidden; }  
+其中clear:both;指清除所有浮动；content: '.'; display:block;对于FF/chrome/opera/IE8不能缺少，其中content（）可以取值也可以为空。visibility:hidden;的作用是允许浏览器渲染它，但是不显示出来，这样才能实现清楚浮动。
+
+
+
+返回顶部：<a class="backtop hiddenThis" title="返回顶部"></a>
+          a.backtop {
+	      background: url(/coin-portlet/images/backtotop.png) no-repeat center center;
+	      bottom: 20px;
+	      cursor: pointer;
+	      display: none;
+	      height: 70px;
+	      position: fixed;
+	      right: 20px;
+	      text-indent: -9999px;
+	      width: 70px;
+	      z-index: 100; }
+<script type="text/javascript">
+	/** 返回页面顶部 */
+function backtopFun() {
+   $(window).scroll(function() {
+	if ($(window).scrollTop() >= 200) {
+	$(".backtop").fadeIn();
+	} else {
+	$(".backtop").fadeOut();
+	}
+	});
+   $(".backtop").click(function(event) {
+	$('html,body').animate({
+	scrollTop : 0
+	}, 500);
+	return false;
+	});
+	}
+   $(function() {
+	backtopFun();
+	});
+</script>
